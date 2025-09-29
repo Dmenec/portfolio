@@ -1,157 +1,90 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Domènec Madrid",
+    "label": "Computer Science Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Domenec.Madrid@uab.cat",
+    "url": "https://dmenec.github.io",
+    "summary": "Technology and science have always been my driving force. I enjoy learning, experimenting, and working on projects that present real challenges. I thrive collaborating with others, sharing ideas, and finding practical solutions that make a difference. Lately, I’ve been especially drawn to Artificial Intelligence, Cybersecurity, Bitcoin, and cryptography, areas that inspire me to research, ask questions, and keep growing both professionally and personally.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Catalonia"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "NiktowCode",
+        "url": "https://twitter.com/NiktowCode"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Departament d'Enginyeria de la Informació i de les Comunicacions, Universitat Autònoma de Barcelona",
+      "position": "Research Support Specialist",
+      "url": "https://www.discryt.com/",
+      "startDate": "05-2024",
+      "endDate": "Present",
+      "summary": "Worked on several Bitcoin-related projects, specifically focusing on the creation of a parallel mainnet, wallet fingerprinting, and covert channel attacks exploiting the random values generated in Bitcoin’s probabilistic signature schemes.",
+      "highlights": ["Bitcoin", "Cryptography", "Cybersecurity", "Blockchain", "Rust", "Python", "Research Writing"]
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "Universitat Autònoma de Barcelona",
+      "location": "Bellaterra, Catalonia, Spain",
+      "url": "https://www.uab.cat/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2017",
+      "endDate": "2022",
+      "honors": "Blockchain and Criptocurrencies"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Universitat Oberta de Catalunya",
+      "location": "Remote",
+      "url": "https://www.uoc.edu/",
+      "area": "Cybersecurity and Privacy",
+      "studyType": "Master's Degree",
+      "startDate": "2024",
+      "endDate": "2025",
+      "honors": "Final Project on Covert-Nonce Channel Attacks in Bitcoin"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Secure and Efficient Programming in Rust",
+      "date": "2024",
+      "issuer": "Universitat Autònoma de Barcelona", 
       "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+    }, 
+      {
+      "name": "C1.1 Advanced English",
+      "date": "2024",
+      "issuer": "Universitat Autònoma de Barcelona", 
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Rust",
+      "level": "Medium (2 years)",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Catalan",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +96,38 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Bitocin",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Cryptography", 
+        "Decentralization", 
+        "Privacy"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Covert-Nonce Channel Attacks in Bitcoin",
+      "summary": "",
+      "highlights": ["Bitcoin", "Cryptography", "Signatures"],
+      "startDate": "04-2025",
+      "endDate": "present"
+    },
+    {
+      "name": "Wallet Fingerprinting in Bitcoin",
+      "summary": "",
+      "highlights": ["Hardware Wallet", "Software Wallet", "Bitcoin", "Fingerprinting", "Privacy", "Address Clustering"],
+      "startDate": "1-2024",
+      "endDate": "04-2024"
+    },
+    {
+      "name": "Implementation of a Bitcoin Parallel Mainnet",
+      "summary": "",
+      "highlights": ["Bitcoin", "Cryptography", "Docker", "bitcoin-cli", "bitcoin.conf"],
+      "startDate": "06-2024",
+      "endDate": "12-2024"
     }
   ]
 }
